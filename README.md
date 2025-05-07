@@ -20,3 +20,6 @@ Este proyecto es una aplicación web para gestionar propiedades inmobiliarias. P
 - **Gulp** – Automatización de tareas (compilar SCSS, minificar JS, etc.)
 - **JavaScript** – Interactividad del lado del cliente
 - **Git** – Control de versiones
+
+## COMO SE ABRE EL PROYECTO
+- php -S localhost:8080
